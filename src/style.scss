@@ -1,0 +1,196 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css");
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@700&family=Inter&display=swap');
+
+
+.profile-container {
+    padding: 210px 148px 129px;
+    background: #FFFFFF;
+}
+
+.nama {
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+}
+
+.ket {
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 23px;
+}
+
+.contact-container {
+    padding: 8px 146px;
+    background: #EDF7FA;
+}
+
+.headline p {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    letter-spacing: 0.015em;
+    text-transform: uppercase;
+    color: #136223;
+}
+
+.info p {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.05em;
+
+    color: #100101;
+
+}
+
+.info i {
+    padding-right: 18.6px;
+}
+
+.edu p {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    letter-spacing: 0.015em;
+    text-transform: uppercase;
+
+    /* PRIMARY / GREEN */
+
+    color: #136223;
+
+}
+
+.edu1 p {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    letter-spacing: 0.015em;
+
+    color: #000000;
+}
+
+.edu2 p {
+    font-family: 'Inter', sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.edu3 li {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    padding-bottom: 6px;
+
+    color: #52575C;
+}
+
+.project-container {
+    padding: 29px 146px 83px 148px;
+    background: #FFFFFF;
+    ;
+}
+
+.pheadline p {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    letter-spacing: 0.015em;
+    text-transform: uppercase;
+
+    /* PRIMARY / GREEN */
+    padding-bottom: 20px;
+    color: #136223;
+}
+
+.ptitle p {
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 44px;
+    /* identical to box height */
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+.pket p {
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 29px;
+    /* Light */
+
+    color: #8695A4;
+
+}
+
+.pcontent p {
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 23px;
+
+    /* Dark Color */
+
+    color: #21243D;
+}
+
+.button5 {
+    border-radius: 100%;
+}
+
+.footer-container {
+    padding-top: 54px;
+    padding-bottom: 51px;
+    background: #ffffff;
+    ;
+
+}
+
+.footer-container p {
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    /* Dark */
+
+    color: #21243D;
+
+}
